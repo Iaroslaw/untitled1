@@ -61,7 +61,6 @@ public class Student {
         }
     }
 
-
     public void setGrowth(float Growth) {
         if (Growth <= 0) {
             System.out.println("Такого не может быть");
