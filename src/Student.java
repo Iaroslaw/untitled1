@@ -42,7 +42,6 @@ public class Student {
         this.Adress = Adress;
     }
 
-
     public void setAge(int age) {
         if (age <= 0) {
             System.out.println("Такого не может быть");
